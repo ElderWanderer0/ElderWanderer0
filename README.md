@@ -4,8 +4,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I am currently working on *https://github.com/ElderWanderer0/Apocalyptic-Cube*.
-- 🌱 I am currently learning **Python:Pygame**.
+ I am currently working on *https://github.com/ElderWanderer0/Apocalyptic-Cube*. <img align="center" src="" width="100"> 
+
+  
+ <img align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="100"> I am currently learning **Python:Pygame**.
+  
 - 📫 How to reach me: **benburak22@outlook.com**.
 - ⚡ Fun fact: **I am trying to be a computer engineer and a volleyball player at the same time**.
 
