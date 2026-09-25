@@ -6,8 +6,8 @@
 
 - 🔭 I am currently working on *https://github.com/ElderWanderer0/Apocalyptic-Cube*.
 - 🌱 I am currently learning **Python:Pygame**.
-- 📫 How to reach me: **benburak22@outlook.com**
-- ⚡ Fun fact: **I am trying to be a computer engineer and a volleyball player at the same time**
+- 📫 How to reach me: **benburak22@outlook.com**.
+- ⚡ Fun fact: **I am trying to be a computer engineer and a volleyball player at the same time**.
 
 ---
 
