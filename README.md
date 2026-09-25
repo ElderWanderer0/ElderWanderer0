@@ -1,4 +1,4 @@
-## <p align="center"><img src="[https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/hithere.gif?raw=true](https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/fullvid.gif?raw=true)" style="mix-blend-mode: screen;" width="200"></p>
+## <p align="center"><img src="https://raw.githubusercontent.com/ElderWanderer0/ElderWanderer0/refs/heads/main/Gifs/fullvid.gif" style="mix-blend-mode: screen;" width="200"></p>
 
 <!--
 **ElderWanderer0/ElderWanderer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
