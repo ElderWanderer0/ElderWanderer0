@@ -3,15 +3,15 @@
 ---
 
 ### 👨‍💻 About Me
-
- I am currently working on *https://github.com/ElderWanderer0/Apocalyptic-Cube*. <img align="center" src="" width="100"> 
-
-  
- <img align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="100"> I am currently learning **Python:Pygame**.
+ <img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/braingif.gif?raw=true" width="100">   <br>    I am currently working on :<br>
+ *https://github.com/ElderWanderer0/Apocalyptic-Cube*. 
+  <br>
+  <br>
+ 
+ <p align="right">I am currently learning **Python:Pygame** <img align="right" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="100"></p>
   
 - 📫 How to reach me: **benburak22@outlook.com**.
 - ⚡ Fun fact: **I am trying to be a computer engineer and a volleyball player at the same time**.
-
 ---
 
 <h3 align="center"> 🛠️ Technologies That I Use These Days </h3>
