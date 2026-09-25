@@ -1,5 +1,58 @@
-## <p align="center"><img src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/fullvid.gif?raw=true" style="mix-blend-mode: screen;" width="500"></p>
+<p align="center"><img src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/fullvid.gif?raw=true" style="mix-blend-mode: screen;" width="500"></p>
 
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I am currently working on *https://github.com/ElderWanderer0/Apocalyptic-Cube*.
+- 🌱 I am currently learning **Python:Pygame**.
+- 📫 How to reach me: **benburak22@outlook.com**
+- ⚡ Fun fact: **I am trying to be a computer engineer and a volleyball player at the same time**
+
+---
+
+<h3 align="center"> 🛠️ Technologies That I Use These Days </h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
+
+---
+
+<h3 align="center"> 📊 GitHub İstatistiklerim </h3>
+
+ <div align="center">
+  <!-- İstatistik Kartları -->
+  <!--<img height="180" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="İstatistikler" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+  
+  <br><br> -->
+  
+  <!-- GitHub Streak Kartı -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElderWanderer0&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+<h3 align="center"> 🤝 Sosyal Medya & İletişim </h3>
+
+<div align="center">
+  <a href="https://tr.linkedin.com/in/burak-şahin-harman-875599368">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<!-- Yılan Animasyonu (Snake Game) için GitHub Actions kurduğunuzda buradaki yorum satırını kaldırabilirsiniz
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+-->
 <!--
 **ElderWanderer0/ElderWanderer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
