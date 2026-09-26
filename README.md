@@ -21,7 +21,7 @@
  
  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="200" height="1">
  <p align="right">  <img align="right" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="100"> 
-   <br>𝑰 𝒂𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 :&emsp;&emsp;  <br> 𝑷𝙮𝒕𝙝𝒐𝙣 : 𝙋𝒚𝙜𝒂𝙢𝒆  &emsp;&emsp;&emsp;&emsp;
+   <br>𝑰 𝒂𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 :&emsp;&emsp;  <br> <a href="https://www.python.org"> 𝑷𝙮𝒕𝙝𝒐𝙣 </a> : <a href="https://www.pygame.org/docs/"> 𝙋𝒚𝙜𝒂𝙢𝒆  </a>  &emsp;&emsp;&emsp;&emsp;
  </p>
 
  <br>
@@ -54,11 +54,11 @@
 <h3 align="center"> 🛠️ Technologies That I Use These Days </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://html.spec.whatwg.org"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
   <br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 
 </div>
 
