@@ -70,7 +70,7 @@
 
 ---
 
-<h3 align="center"> 📊 GitHub İstatistiklerim </h3>
+<h3 align="center"> 📊 GitHub Statistics </h3>
 
  <div align="center">
   <!-- İstatistik Kartları -->
@@ -85,7 +85,7 @@
 
 ---
 
-<h3 align="center"> 🤝 Sosyal Medya & İletişim </h3>
+<h3 align="center"> 🤝 Social Media & Contact </h3>
 
 <div align="center">
   <a href="https://tr.linkedin.com/in/burak-şahin-harman-875599368">
