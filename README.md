@@ -13,7 +13,8 @@
  <br>
  <br>
  <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dark_Grey_Square.svg" width="550" height="2">
+  <s>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</s>
 </div>
  <br>
  
@@ -24,6 +25,11 @@
 
  <br>
  <br>
+ <div align="center">
+  <s>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</s>
+</div>
+<br>
 
  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="125" height="1">
  <img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/mailgif.gif?raw=true" width="100">   <br>    &emsp;&emsp;&emsp;&ensp;
@@ -32,10 +38,13 @@
  <br>
  <br>
  <br>
+ <br>
 
- 
-   📫  **benburak22@outlook.com**. <br>
-   ⚡ Fun fact: **I am trying to be a computer engineer and a volleyball player at the same time**.
+
+ <div align="center">
+  ⚡ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 : 𝐼 𝑎𝑚 𝑡𝑟𝑦𝑖𝑛𝑔 𝑡𝑜 𝑏𝑒 𝑎 𝑐𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑎𝑛𝑑 𝑎 𝑣𝑜𝑙𝑙𝑒𝑦𝑏𝑎𝑙𝑙 𝑝𝑙𝑎𝑦𝑒𝑟 𝑎𝑡 𝑡ℎ𝑒 𝑠𝑎𝑚𝑒 𝑡𝑖𝑚𝑒.
+ </div>
+   
  
   
 ---
