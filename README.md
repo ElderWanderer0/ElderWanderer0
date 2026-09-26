@@ -3,15 +3,36 @@
 ---
 
 ### 👨‍💻 About Me
- <img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/braingif.gif?raw=true" width="100">   <br>    I am currently working on :<br>
- *https://github.com/ElderWanderer0/Apocalyptic-Cube*. 
-  <br>
-  <br>
+<br>
+ <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="150" height="1">
+ <img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/braingif.gif?raw=true" width="100">   <br>    &emsp;&emsp;
+ 𝑰 𝒂𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏 :<br>
+ &emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://github.com/ElderWanderer0/Apocalyptic-Cube">𝐴𝑝𝑜𝑐𝑎𝑙𝑦𝑝𝑡𝑖𝑐-𝐶𝑢𝑏𝑒</a>
+ <br>
+ <br>
+ <br>
  
- <p align="right">I am currently learning **Python:Pygame** <img align="right" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="100"></p>
+ <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1">
+ <p align="right">  <img align="right" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="100"> 
+   <br>𝑰 𝒂𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 :&emsp;&emsp;  <br> 𝑷𝙮𝒕𝙝𝒐𝙣 : 𝙋𝒚𝙜𝒂𝙢𝒆  &emsp;&emsp;&emsp;&emsp;
+ </p>
+
+ <br>
+ <br>
+
+ <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="150" height="1">
+ <img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/braingif.gif?raw=true" width="100">   <br>    &emsp;&emsp;&emsp;&ensp;
+ 𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆: <br>
+ &emsp;&emsp; <a href="benburak22@outlook.com">𝑏𝑒𝑛𝑏𝑢𝑟𝑎𝑘22@𝑜𝑢𝑡𝑙𝑜𝑜𝑘.𝑐𝑜𝑚</a>
+ <br>
+ <br>
+ <br>
+
+ 
+   📫  **benburak22@outlook.com**. <br>
+   ⚡ Fun fact: **I am trying to be a computer engineer and a volleyball player at the same time**.
+ 
   
-- 📫 How to reach me: **benburak22@outlook.com**.
-- ⚡ Fun fact: **I am trying to be a computer engineer and a volleyball player at the same time**.
 ---
 
 <h3 align="center"> 🛠️ Technologies That I Use These Days </h3>
