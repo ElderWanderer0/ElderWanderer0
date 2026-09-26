@@ -4,12 +4,16 @@
 
 ### 👨‍💻 About Me
 <br>
+<div>
  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="150" height="1">
  <img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/braingif.gif?raw=true" width="100">   <br>    &emsp;&emsp;
  𝑰 𝒂𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏 :<br>
  &emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://github.com/ElderWanderer0/Apocalyptic-Cube">𝐴𝑝𝑜𝑐𝑎𝑙𝑦𝑝𝑡𝑖𝑐-𝐶𝑢𝑏𝑒</a>
+ </div>
  <br>
- <br>
+ <div align="absmiddle">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dark_Grey_Square.svg" width="600" height="2">
+</div>
  <br>
  
  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1">
@@ -21,8 +25,8 @@
  <br>
 
  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="150" height="1">
- <img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/braingif.gif?raw=true" width="100">   <br>    &emsp;&emsp;&emsp;&ensp;
- 𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆: <br>
+ <img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/mailgif.gif?raw=true" width="100">   <br>    &emsp;&emsp;&emsp;&ensp;
+ 𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆 : <br>
  &emsp;&emsp; <a href="benburak22@outlook.com">𝑏𝑒𝑛𝑏𝑢𝑟𝑎𝑘22@𝑜𝑢𝑡𝑙𝑜𝑜𝑘.𝑐𝑜𝑚</a>
  <br>
  <br>
