@@ -33,7 +33,7 @@
 </div>
 <br>
 
- <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="125" height="1">
+ <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="128" height="1">
  <span id="mail"><img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/mailgif.gif?raw=true" width="100">   <br>    &emsp;&emsp;&emsp;&ensp;</span>
  𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆 : <br>
  &emsp;&emsp; <a href="benburak22@outlook.com">𝑏𝑒𝑛𝑏𝑢𝑟𝑎𝑘22@𝑜𝑢𝑡𝑙𝑜𝑜𝑘.𝑐𝑜𝑚</a>
