@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 About Me
+<h3 align="center"> 👨‍💻 About Me </h3>
 <br>
 <div>
  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="125" height="1">
@@ -36,7 +36,7 @@
  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="125" height="1">
  <img align="left" src="https://github.com/ElderWanderer0/ElderWanderer0/blob/main/Gifs/mailgif.gif?raw=true" width="100">   <br>    &emsp;&emsp;&emsp;&ensp;
  𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆 : <br>
- &emsp;&emsp; <a href="benburak22@outlook.com">𝑏𝑒𝑛𝑏𝑢𝑟𝑎𝑘22@𝑜𝑢𝑡𝑙𝑜𝑜𝑘.𝑐𝑜𝑚</a>
+ &emsp;&emsp; <span id="mail"><a href="benburak22@outlook.com">𝑏𝑒𝑛𝑏𝑢𝑟𝑎𝑘22@𝑜𝑢𝑡𝑙𝑜𝑜𝑘.𝑐𝑜𝑚</a></span>
  <br>
  <br>
  <br>
@@ -74,7 +74,7 @@
 
  <div align="center">
   
-  <br><br> -->
+  <br><br>
   
   <!-- GitHub Streak Kartı -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElderWanderer0&theme=tokyonight" alt="GitHub Streak" />
@@ -88,6 +88,9 @@
   <a href="https://tr.linkedin.com/in/burak-şahin-harman-875599368">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+ <a href="#mail">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook">
+ </a>
 </div>
 
 
