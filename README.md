@@ -11,7 +11,8 @@
  &emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://github.com/ElderWanderer0/Apocalyptic-Cube">𝐴𝑝𝑜𝑐𝑎𝑙𝑦𝑝𝑡𝑖𝑐-𝐶𝑢𝑏𝑒</a>
  </div>
  <br>
- <div align="absmiddle">
+ <br>
+ <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dark_Grey_Square.svg" width="500" height="2">
 </div>
  <br>
