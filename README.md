@@ -13,7 +13,7 @@
  <br>
  <br>
  <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dark_Grey_Square.svg" width="500" height="2">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dark_Grey_Square.svg" width="550" height="2">
 </div>
  <br>
  
